@@ -175,7 +175,7 @@ I enjoy solving complex business problems through clean architecture, scalable b
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.blueshoretech.com">
+<a href="https://yashvardhan-mishra-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome"/>
 </a>
 
