@@ -121,34 +121,6 @@ AI-powered Global Job Search & Application Platform
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashv-22&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashv-22&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yashv-22&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashv-22&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
 # 💡 Engineering Philosophy
 
 > Great software isn't defined by the number of features it has—it's defined by how maintainable, scalable, secure, and impactful it remains as it grows.
