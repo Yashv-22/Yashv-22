@@ -16,7 +16,7 @@ Building scalable AI-powered SaaS, Business Automation Platforms & Enterprise So
 
 # 🚀 About Me
 
-- 💻 AI Backend Engineer with **1.5+ years** of professional experience
+- 💻 AI Backend Engineer with **2+ years** of professional experience
 - 🐍 Specialized in **Python, Django, FastAPI & React**
 - 🤖 Building **LLM, RAG, AI Automation & Enterprise SaaS**
 - ☁️ Experienced with **AWS, Docker, PostgreSQL & Redis**
